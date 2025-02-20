@@ -10,6 +10,7 @@
 | /Src/Middleware          | Custom middleware such as `AuthMiddleware` or `CustomExceptionFilter` |
 | /Src/Services            | Service implementations                                               |
 | /Src/Services/Interfaces | Service interfaces                                                    |
+| /Src/Services/Domain     | Domain services                                                       |
 | /Src/Domain              | Domain objects for use in services                                    |
 | /Src/Domain/Dto/In       | DTOs for parsing request body or query params FROM client             |
 | /Src/Domain/Dto/Out      | DTOs for serializing request body or query params TO client           |
